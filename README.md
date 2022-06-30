@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sarika Agarwal
 - 👀 I’m interested in  Java, Frameworks, Python , Machine Learning, Neural Networks
 - 🌱 I’m currently learning  NLP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  at Sarikagarwal.it@gmail.com
 
 <!---
 sarikagarwal/sarikagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
